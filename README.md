@@ -6,8 +6,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/breast-cancer-survival-prediction.git
-    cd breast-cancer-survival-prediction
+    git https://github.com/vvidhig/Breast-Cancer-Survival-Prediction-Model.git
+    cd breast-cancer-survival-prediction-model
     ```
 
 2. Install the required packages:
